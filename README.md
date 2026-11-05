@@ -33,9 +33,9 @@ python3 -m http.server 8765 --directory docs
 
 ## GitHub Pages
 
-当前按用户选择保存为私有仓库，未启用公开Pages。以下步骤仅在确认允许公开访问后执行；普通个人账号的Pages不提供等同私有仓库的访问限制。
+在线刷题地址：[AI金种子 · 备考练习室](https://zzhiwang.github.io/ai-seed-exam/)。手机与电脑均可直接访问，无需登录。
 
-在仓库 Settings → Pages 中选择 Deploy from a branch，分支选择 `main`，目录选择 `/docs`，保存后等待构建完成。
+仓库与网站均为公开访问。GitHub Pages 从 `main` 分支的 `/docs` 目录自动发布，更新该目录后会触发重新部署。
 
 ## 验证
 
